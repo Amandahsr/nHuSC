@@ -1,7 +1,7 @@
 # nHuSC: R Shiny App
-The **nHuSC** R package and associated R shiny app was modified from the **nMyo** package written by Efthymios Motakis & Diana Low: https://github.com/ArisStefanosSn/nMyo. 
+The **nHuSC** R package and associated R shiny app was modified from the **nMyo** package written by [Efthymios Motakis & Diana Low](https://github.com/ArisStefanosSn/nMyo). 
 
-**nHuSC** was developed to visualise the single-cell RNA-seq expression profiles of 78,264 human cardiac cells from the left ventricle. The detailed vignette is available on: https://github.com/Amandahsr/nHuSC/blob/master/vignette.pdf 
+**nHuSC** was developed to visualise the single-cell RNA-seq expression profiles of 78,264 human cardiac cells from the left ventricle. The detailed [vignette](https://github.com/Amandahsr/nHuSC/blob/master/vignette.pdf) is available in this repository.
 
 The R shiny applet enables the user to select a gene ID or symbol, and it generates a series of interactive plots (UMAP and Violin Plot) for data visualisation and exploratory analysis.
 
